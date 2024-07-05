@@ -44,7 +44,7 @@ function App() {
           className="ml-2 p-2 bg-green-500 text-white rounded"
           onClick={userName}
         >
-          Set
+          Atur
         </button>
         <input
           type="text"
@@ -57,7 +57,7 @@ function App() {
           className="ml-2 p-2 bg-blue-500 text-white rounded"
           onClick={addTodo}
         >
-          Add
+          Tambah
         </button>
       </div>
       <div className='w-[1000px] p-4 bg-slate-600 rounded-lg m-auto'>
